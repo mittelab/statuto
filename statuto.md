@@ -8,10 +8,7 @@ E’ costituita l’associazione di promozione sociale denominata “Mittelab”
 apartitica, aconfessionale, non persegue fini di lucro, né diretto né
 indiretto, con durata a tempo indeterminato ed assume la forma di
 “Associazione non riconosciuta” ai fini del Codice Civile e quella di
-“Ente non commerciale” ai fini fiscali. I contenuti e la struttura
-dell'Associazione sono ispirati a principi di solidarietà, trasparenza e
-democrazia che consentono l'effettiva partecipazione dei soci alla vita
-dell'Associazione stessa.
+“Ente non commerciale” ai fini fiscali.
 
 L' Associazione adotta come riferimento legislativo le disposizioni
 contenute nel codice civile, la Legge 383/2000 e la normativa in materia
