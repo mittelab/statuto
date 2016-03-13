@@ -5,8 +5,7 @@ geometry: hmargin=1cm,vmargin=2cm
 header-includes:
     - \usepackage{titlesec}
 ---
-
-##Art. 1: Costituzione
+#Art. 1: Costituzione
 
 E’ costituita l’associazione di promozione sociale denominata “Mittelab”
 (di seguito detta anche “Associazione”). L’Associazione è indipendente,
@@ -19,7 +18,7 @@ democrazia che consentono l'effettiva partecipazione dei soci alla vita
 dell'Associazione stessa.
 
 
-##Art. 2: Sede
+#Art. 2: Sede
 
 L’Associazione ha sede in Trieste, via Manzoni 11. Il Consiglio
 Direttivo potrà con delibera trasferire la sede all’interno del
@@ -27,7 +26,7 @@ territorio del Comune di Trieste; il trasferimento della sede legale non
 comporta modifica statutaria.
 
 
-##Art. 3: Oggetto sociale, finalità e attività
+#Art. 3: Oggetto sociale, finalità e attività
 
 Mittelab è un hackerspace di matrice nordeuropea, ovvero un luogo dove
 persone che hanno interessi comuni nel campo della tecnologia in
@@ -76,7 +75,7 @@ statutarie, o quelle accessorie per natura in quanto integrative delle
 stesse.
 
 
-##Art. 4: Soci
+#Art. 4: Soci
 
 Possono essere soci dell’Associazione sia le persone fisiche che
 giuridiche che enti; le persone giuridiche e gli enti sono rappresentati
@@ -132,7 +131,7 @@ dell’Associazione per realizzare progetti personali di natura
 elettronica e/o informatica o collaborare nelle iniziative comuni.
 
 
-##Art. 5: Organi sociali
+#Art. 5: Organi sociali
 
 L’Assemblea dei Soci: si riunisce, anche fuori dalla sede sociale,
 almeno una volta l’anno entro il mese di giugno, per l’approvazione del bilancio e, con cadenza biennale, per l’elezione del Consiglio Direttivo e del Presidente. Essa inoltre:
@@ -271,7 +270,7 @@ figure possono essere soggetti esterni dell’Associazione ovvero soci,
 qualora ne abbiano le necessarie qualifiche.
 
 
-##Articolo 6: Patrimonio
+#Articolo 6: Patrimonio
 
 Il patrimonio dell’Associazione è costituito dai beni mobili ed immobili
 che pervengono all’Associazione a qualsiasi titolo, da elargizioni o
@@ -324,7 +323,7 @@ le indicazioni dell'Assemblea che nomina il liquidatore, salvo diversa
 destinazione imposta dalla legge.
 
 
-##Art. 7: Bilancio
+#Art. 7: Bilancio
 
 L'esercizio sociale si intende dal 1° gennaio al 31 dicembre di ogni
 anno. Entro il mese di marzo di ciascun anno il Consiglio Direttivo è
@@ -350,6 +349,6 @@ Sono previsti la costituzione e l'incremento del fondo di riserva.
 L'utilizzo del fondo di riserva è vincolato alla decisione
 dell'Assemblea dei Soci.
 
-##Art. 8: Disposizioni finali
+#Art. 8: Disposizioni finali
 
 L'Associazione adotta come riferimento legislativo la normativa in materia di Associazioni di Promozione Sociale, L. 383/2000, e le disposizioni contenute nel codice civile, rimandando a queste per quanto non previsto nel presente Statuto o dal regolamento interno.
