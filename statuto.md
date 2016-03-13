@@ -13,10 +13,6 @@ dell'Associazione sono ispirati a principi di solidarietà, trasparenza e
 democrazia che consentono l'effettiva partecipazione dei soci alla vita
 dell'Associazione stessa.
 
-L' Associazione adotta come riferimento legislativo le disposizioni
-contenute nel codice civile, la Legge 383/2000 e la normativa in materia
-di Associazioni di Promozione Sociale.
-
 
 ##Art. 2: Sede
 
@@ -41,18 +37,16 @@ a) difesa della libertà e dei diritti umani nella società digitale;
 
 b) accesso alla rete Internet libero e aperto;
 
-c) condivisione della cultura e della conoscenza scientifica
-(soprattutto in ambito informatico ed elettronico).
+c) condivisione della cultura e della conoscenza scientifica.
 
-L' Associazione si pone inoltre lo scopo di favorire l'utilizzo
+L'Associazione si pone inoltre lo scopo di favorire l'utilizzo
 consapevole degli strumenti informatici e contribuire attivamente al
 miglioramento e avanzamento del sapere e della cultura promuovendo la
 produzione e la diffusione di software libero, hardware libero e
 contenuti liberi per incentivare le possibilità di accesso alla
 conoscenza e alla formazione. Sono definite "libere" nel senso inteso
 dall'Associazione tutte le opere che sono state contrassegnate dai loro
-autori con una licenza che ne permetta l'utilizzo, lo studio, la
-distribuzione, la modifica.
+autori con una licenza che ne permetta l'utilizzo, lo studio, la modifica, la distribuzione.
 
 Per il conseguimento delle proprie finalità l'Associazione potrà, sia
 direttamente sia in collaborazione con altre organizzazioni ed enti
@@ -136,10 +130,7 @@ elettronica e/o informatica o collaborare nelle iniziative comuni.
 ##Art. 5: Organi sociali
 
 L’Assemblea dei Soci: si riunisce, anche fuori dalla sede sociale,
-almeno una volta l’anno entro il mese di aprile, eventualmente entro il
-mese di giugno, qualora particolari circostanze lo richiedano, per
-l’approvazione del bilancio e, con cadenza biennale, per l’elezione del
-Consiglio Direttivo e del Presidente. Essa inoltre:
+almeno una volta l’anno entro il mese di giugno, per l’approvazione del bilancio e, con cadenza biennale, per l’elezione del Consiglio Direttivo e del Presidente. Essa inoltre:
 
 -   delinea gli indirizzi generali dell’attività dell’Associazione;
 -   delibera, su proposta del Consiglio Direttivo, sulla quota
@@ -356,6 +347,4 @@ dell'Assemblea dei Soci.
 
 ##Art. 8: Disposizioni finali
 
-Per quanto non previsto nel presente Statuto o dal regolamento interno
-si fa riferimento alle leggi vigenti ed in particolare alla L. 383/2000
-ed al Codice Civile.
+L'Associazione adotta come riferimento legislativo la normativa in materia di Associazioni di Promozione Sociale, L. 383/2000, e le disposizioni contenute nel codice civile, rimandando a queste per quanto non previsto nel presente Statuto o dal regolamento interno.
