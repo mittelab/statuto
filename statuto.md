@@ -1,5 +1,10 @@
-Allegato A
-#Statuto Associazione di Promozione Sociale “MITTELAB”
+---
+title: Statuto Associazione di Promozione Sociale “MITTELAB”
+lang: italian
+geometry: hmargin=1cm,vmargin=2cm
+header-includes:
+    - \usepackage{titlesec}
+---
 
 ##Art. 1: Costituzione
 
