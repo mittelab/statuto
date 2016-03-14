@@ -61,8 +61,8 @@ dichiarano e convengono quanto segue.
 
 E’ costituita tra essi comparenti e tra quanti potranno aderire in
 seguito a norma degli articoli dello Statuto di cui all’Allegato A,
-l’Associazione culturale avente la denominazione “Mittelab”, con sede in
-Trieste, via Manzoni 11. L’Associazione è apolitica, apartitica e senza
+l’Associazione di promozione sociale avente la denominazione “Mittelab”, con sede in
+Trieste, via Manzoni 11. L’Associazione è aconfessionale, apartitica e senza
 fine di lucro, ed ha come scopo lo sviluppo della cultura nel campo
 della tecnologia in generale e l’elettronica ed informatica in
 particolare, specificatamente sostenendo la formazione e la diffusione
