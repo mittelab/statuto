@@ -1,5 +1,7 @@
 ---
 title: ATTO COSTITUTIVO DELL’ASSOCIAZIONE DI PROMOZIONE SOCIALE “Mittelab”
+lang: italian
+geometry: hmargin=1cm,vmargin=2cm
 ---
 
 
