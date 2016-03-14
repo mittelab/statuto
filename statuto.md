@@ -29,7 +29,7 @@ comporta modifica statutaria.
 
 #Art. 3: Oggetto sociale, finalità e attività
 
-Mittelab è un hackerspace di matrice nordeuropea, ovvero un luogo dove
+Mittelab si occupa di gestire un hackerspace di matrice nordeuropea, ovvero un luogo dove
 persone che hanno interessi comuni nel campo della tecnologia in
 generale e l’elettronica ed informatica in particolare possono
 collaborare e condividere conoscenze ed attrezzature. Mittelab favorisce
