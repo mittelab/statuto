@@ -1,6 +1,7 @@
-**ATTO COSTITUTIVO**
+---
+title: ATTO COSTITUTIVO DELL’ASSOCIAZIONE DI PROMOZIONE SOCIALE “Mittelab”
+---
 
-**DELL’ASSOCIAZIONE CULTURALE “Mittelab”**
 
 L’anno 2015, il giorno \_\_\_\_ del mese di \_\_\_\_ in Trieste, i
 signori:
