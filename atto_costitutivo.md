@@ -94,8 +94,7 @@ Le spese del presente atto, annesse e dipendenti, si convengono ad
 esclusivo carico dell’associazione qui costituita.
 
 La quota associativa annuale deliberata dall’Assemblea dei soci
-fondatori per il primo anno sociale è pari alla cifra di € 120,00
-suddivisa in 12 quote mensili.
+fondatori per il primo anno sociale è pari alla cifra di € 42,00.
 
 Conformemente a quanto previsto nell’allegato statuto, l’Associazione
 per i primi due anni sociali è amministrata dal Consiglio Direttivo
