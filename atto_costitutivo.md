@@ -102,8 +102,8 @@ Conformemente a quanto previsto nell’allegato statuto, l’Associazione
 per i primi due anni sociali è amministrata dal Consiglio Direttivo
 nominato nelle persone di **Srebrnič Aljaž** in
 qualità di Presidente, **Sossi Andrej** in
-qualità di Vice–Presidente, **Corvini Niccolò**  in
-qualità di Segretario e **Gorobey Giulio** in qualità di  Tesoriere,
+qualità di Vice–Presidente, **Gorobey Giulio**  in
+qualità di Segretario/Tesoriere,
 così come meglio sopra individuati.
 
 Letto, approvato e sottoscritto dai soci fondatori.
