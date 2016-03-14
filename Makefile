@@ -1,10 +1,11 @@
 PANDOC_OPTIONS :=
 
-
-statuto.pdf: statuto.md
-	pandoc $(PANDOC_OPTIONS) -o $@ $?
+all: statuto.pdf atto_costitutivo.pdf
 
 clean: statuto.pdf
 	rm $<
 
-PHONY := clean
+%.pdf: %.md
+	pandoc $(PANDOC_OPTIONS) -o $@ $?
+
+PHONY := clean all
