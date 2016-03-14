@@ -85,7 +85,7 @@ comunque acquisite.
 L’Associazione ha durata illimitata e non ha scopo di lucro. 
 
 L’Associazione è costituita nel rispetto delle disposizioni di cui alla
-Legge n. 383/1991 e successive modifiche e acquisirà la qualifica di
+Legge n. 383/2000 e successive modifiche e acquisirà la qualifica di
 Associazione di Promozione Sociale a seguito dell’iscrizione nel
 Registro delle Associazioni di Promozione Sociale di cui all’art. 7
 della L. n. 383/2000. Essa assume la forma di “Associazione non
