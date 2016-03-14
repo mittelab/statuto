@@ -100,10 +100,11 @@ fondatori per il primo anno sociale è pari alla cifra di € 42,00.
 
 Conformemente a quanto previsto nell’allegato statuto, l’Associazione
 per i primi due anni sociali è amministrata dal Consiglio Direttivo
-nominato nelle persone di \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in
-qualità di Presidente, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in
-qualità di Vice–Presidente, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in
-qualità di Segretario/Tesoriere, così come meglio sopra individuati.
+nominato nelle persone di **Srebrnič Aljaž** in
+qualità di Presidente, **Sossi Andrej** in
+qualità di Vice–Presidente, **Corvini Niccolò**  in
+qualità di Segretario e **Gorobey Giulio** in qualità di  Tesoriere,
+così come meglio sopra individuati.
 
 Letto, approvato e sottoscritto dai soci fondatori.
 
