@@ -118,8 +118,8 @@ Sono soci dell’Associazione:
     Costitutivo;
 -   Hackers: sono i soci ordinari;
 -   Hungry Hackers: sono i soci studenti o disoccupati;
--   Soci Benemeriti: il Consiglio Direttivo può nominare soci benemeriti
-    dell’Associazione le persone fisiche, giuridiche e/o enti che
+-   Phreakers: il Consiglio Direttivo può nominare soci benemeriti
+    (denominati "Phreakers") dell’Associazione le persone fisiche, giuridiche e/o enti che
     effettuano versamenti al fondo di dotazione ritenuti di particolare
     rilevanza ovvero che si sono particolarmente distinti nelle attività
     di interesse dell’Associazione.
