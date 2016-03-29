@@ -1,11 +1,11 @@
 ---
 title: ATTO COSTITUTIVO DELL'ASSOCIAZIONE DI PROMOZIONE SOCIALE "Mittelab"
-date: 16/03/2016
+date: 28/03/2016
 lang: italian
 geometry: hmargin=1cm,vmargin=2cm
 ---
 
-L'anno 2016, il giorno 16 del mese di marzo in Trieste, i
+L'anno 2016, il giorno 28 del mese di marzo in Trieste, i
 signori:
 
 -   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,

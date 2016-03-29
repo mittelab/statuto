@@ -1,7 +1,7 @@
 ---
 title: Statuto Associazione di Promozione Sociale "MITTELAB"
 lang: italian
-date: 16/3/2016
+date: 28/3/2016
 geometry: hmargin=1cm,vmargin=2cm
 header-includes: \input{header.tex}
 numbersections: true
