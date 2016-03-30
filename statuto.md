@@ -39,7 +39,7 @@ a) difesa della libertà e dei diritti umani nella società digitale;
 
 b) accesso alla rete Internet libero e aperto;
 
-c) condivisione della cultura e della conoscenza scientifica.
+c) condivisione della cultura e della conoscenza tecnico-scientifica.
 
 L'Associazione si pone inoltre lo scopo di favorire l'utilizzo
 consapevole degli strumenti informatici e contribuire attivamente al
