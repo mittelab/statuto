@@ -177,10 +177,10 @@ persona designata dall'Assemblea.
 
 Il Consiglio Direttivo: amministra l'Associazione ed è composto da un
 minimo di tre (3) ad un massimo di dieci (10) Consiglieri membri –
-compresi Presidente, Vice Presidente, Segretario/Tesoriere  – eletti fra
+compresi Presidente, Vice Presidente, Segretario, Tesoriere  – eletti fra
 i soci dall'Assemblea, che ne determina il numero. Nella prima riunione
 a seguito dell'elezione vengono designati tra i Consiglieri il Vice
-Presidente e il Segretario/Tesoriere. I Consiglieri durano in carica due
+Presidente, il Segretario e il Tesoriere. I Consiglieri durano in carica due
 anni e sono rieleggibili. Dalla nomina a Consigliere non consegue alcun
 compenso, salvo il rimborso delle spese documentate sostenute per
 ragioni dell'ufficio ricoperto. Qualora per dimissioni o per altre cause
