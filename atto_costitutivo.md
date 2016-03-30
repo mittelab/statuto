@@ -103,8 +103,8 @@ per i primi due anni sociali è amministrata dal Consiglio Direttivo
 nominato nelle persone di **Srebrnič Aljaž** in
 qualità di Presidente, **Sossi Andrej** in
 qualità di Vice–Presidente, **Gorobey Giulio**  in
-qualità di Segretario/Tesoriere,
-così come meglio sopra individuati.
+qualità di Tesoriere e **Corvini Niccolò** in qualità di
+Segretario, così come meglio sopra individuati.
 
 Letto, approvato e sottoscritto dai soci fondatori.
 
