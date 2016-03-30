@@ -259,7 +259,7 @@ all'Associazione.
 
 Il Tesoriere – ovvero il Segretario qualora l’Assemblea non abbia provveduto
 a nominare il Tesoriere - cura la gestione della cassa dell'Associazione e ne
-tiene la contabilità, effettua la relative verifiche, controlla la tenuta dei
+tiene la contabilità, effettua le relative verifiche, controlla la tenuta dei
 libri contabili, predispone, dal punto di vista contabile, il bilancio
 consuntivo e quello preventivo, accompagnandoli da idonea relazione contabile.
 
