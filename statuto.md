@@ -252,14 +252,16 @@ ogni qualvolta questi sia assente o comunque impedito nell'esercizio
 delle proprie funzioni. Il solo intervento del Vice Presidente
 costituisce per i terzi prova dell'impedimento o assenza del Presidente.
 
-Il Segretario/Tesoriere: cura la gestione della cassa dell'Associazione
-e ne tiene la contabilità, effettua le relative verifiche, controlla la
-tenuta dei libri contabili, predispone, dal punto di vista contabile, il
-bilancio consuntivo e quello preventivo, accompagnandoli da idonea
-relazione contabile; svolge inoltre la funzione di verbalizzazione delle
-adunanze del Consiglio Direttivo; cura la tenuta del libro dei verbali
-delle Assemblee, del Consiglio Direttivo nonché del libro degli aderenti
+Il Segretario: svolge la funzione di verbalizzazione delle adunanze del
+Consiglio Direttivo. Il Segretario cura la tenuta del libro dei verbali delle
+Assemblee, del Consiglio Direttivo nonché del libro degli aderenti
 all'Associazione.
+
+Il Tesoriere – ovvero il Segretario qualora l’Assemblea non abbia provveduto
+a nominare il Tesoriere - cura la gestione della cassa dell'Associazione e ne
+tiene la contabilità, effettua la relative verifiche, controlla la tenuta dei
+libri contabili, predispone, dal punto di vista contabile, il bilancio
+consuntivo e quello preventivo, accompagnandoli da idonea relazione contabile.
 
 L'Associazione può conferire l'incarico dello svolgimento delle proprie
 attività istituzionali a soggetti con adeguata qualifica professionale,
